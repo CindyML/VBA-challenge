@@ -1,5 +1,6 @@
 # VBA-challenge
 Module_2_challenge_cl
-The code source is mine. You can tell because it's bad :) It is in the macro of the Excel workbook uploaded to this repository. 
-It is also in the text file uploaded to this repository.
-The text file includes my code and code from a private tutor. I have the tutor's code I can learn from. 
+I can't upload my Excel file with the macro because it's too large.
+The code is in a text file. My code is at the top.
+I saw a privat tutor and used his code to learn from; it's marked as someone else's code and is at the bottm.
+
